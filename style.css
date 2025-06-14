@@ -1,0 +1,70 @@
+header {
+    
+    height: 118px;
+    width: 1440px;
+    text-align: center;
+}
+nav {
+    background-color: rgba(0, 0, 0, 0.224);
+    width: 1440px;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+main {
+    height: 400px;
+    width: 1440px;
+    text-align: center;
+    padding-top: 50px;
+}
+footer {
+    background-color: rgba(0, 0, 0, 0.322);
+    width: 1440px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 12px;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1440px;
+}
+h1 {
+    color: white;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    color: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+body {
+    background-color: #333;
+    background-image: url(asset/WhatsApp\ Image\ 2025-06-14\ at\ 08.58.52_2173d012.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+html {
+    height: 100%;
+}
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.maps {
+    padding-bottom: 100px;
+}
+.gallery {
+    padding-bottom: 200px;
+}
